@@ -1,0 +1,18 @@
+{
+  "listname" : "JSOnTestList",
+  "ispublic" : true,
+  "songSet" : [
+  {
+    "title" : "FunnySong",
+    "artist" : "Lukas 777",
+    "album" : "Lukas 777 (Album Seven)",
+    "released" : 2017
+  },
+  {
+    "title" : "777 Years",
+    "artist" : "Lukas 777",
+    "album" : "Lukas 777 (Album Seven)",
+    "released" : 2017
+  }
+  ]
+}

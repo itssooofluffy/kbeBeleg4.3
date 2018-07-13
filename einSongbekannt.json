@@ -1,0 +1,12 @@
+{
+  "listname" : "JSOnTestList",
+  "ispublic" : true,
+  "songSet" : [
+  {
+    "title" : "Song1",
+    "artist" : "Artist1",
+    "album" : "Album1",
+    "released" : 2001
+  }
+  ]
+}
